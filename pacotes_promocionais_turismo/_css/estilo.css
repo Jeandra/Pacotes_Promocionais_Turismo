@@ -1,0 +1,20 @@
+.pacotes td{
+    border: 1px solid #606060;
+    text-align: center;
+    padding: 15px;
+    
+}
+
+
+.linha1{ background-color: rgb(99, 99, 240);
+    font-family: fantasy;
+    font-size: 25px;
+    color: white;
+    height: 80px;
+
+}
+
+.pacotes{
+    align-items: center;
+    width: 100%;
+}
